@@ -18,9 +18,8 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+[Click here to watch the video walkthrough](https://drive.google.com/file/d/1mVlLFna7nld1U-pDmcC7vD5gDgea4x20/view?usp=sharing)
 
-<video src='https://drive.google.com/file/d/1mVlLFna7nld1U-pDmcC7vD5gDgea4x20/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
