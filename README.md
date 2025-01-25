@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1mVlLFna7nld1U-pDmcC7vD5gDgea4x20/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video src='https://drive.google.com/file/d/1mVlLFna7nld1U-pDmcC7vD5gDgea4x20/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
